@@ -1,0 +1,5 @@
+whisper
+flask
+dotenv
+__pycache__/
+*.wav

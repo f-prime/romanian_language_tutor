@@ -1,0 +1,7 @@
+html, body {
+  font-family: Helvetica;
+}
+
+#conversation-box {
+  max-height: 600px;
+}

@@ -1,0 +1,4 @@
+*.sw[a-z]
+.env
+.DS_Store
+*.wav
