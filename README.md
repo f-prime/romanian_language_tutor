@@ -1,6 +1,6 @@
 # Overview
 
-I have been trying to learn Romanian for a while needed "someone" to have conversations with who could correct my grammar when I make a mistake.
+I have been trying to learn Romanian for a while and needed someone to have conversations with who could correct my grammar when I make a mistake.
 
 So, I made this simple AI language tutor web app.
 
